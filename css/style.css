@@ -35,9 +35,12 @@ body{
     height: 2000px;
 }
 .cont-score{
+    width: 220px;
+    height: 100px;
     background-color: #847996;
     height: 100px;
     border-radius: 4px;
+    margin: 0 auto;
     margin-top: 50px;
     margin-bottom: 40px;
 }
@@ -66,7 +69,6 @@ body{
     height: 300px;
     border-radius: 50%;
     background-color: #D0A98F;
-    
     padding: 0;
     border: 0px;
     margin: 0 60px;
